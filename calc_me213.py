@@ -1,6 +1,6 @@
 #import random
 
-B_val = str(input("input value from : "))
+B_val = str(input("input value example 321 : "))
 
 ii_len = len(B_val)
 
