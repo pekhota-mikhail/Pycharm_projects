@@ -1,2 +1,2 @@
-# python
+# PycharmProjects
 my lessons
